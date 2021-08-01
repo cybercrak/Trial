@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/compose-model-1626169499246.xml" value="0.5" />
+        <entry key="../../../../layout/compose-model-1626276216602.xml" value="1.7075812274368232" />
+        <entry key="../../../../layout/compose-model-1626599663126.xml" value="0.75" />
+        <entry key="../../../../layout/compose-model-1626617804697.xml" value="0.67" />
+        <entry key="../../../../layout/compose-model-1626689518143.xml" value="1.564569536423841" />
+        <entry key="../../../../layout/compose-model-1626776624428.xml" value="0.25" />
+        <entry key="../../../../layout/compose-model-1626783497703.xml" value="0.19932432432432431" />
+        <entry key="../../../../layout/compose-model-1626794046980.xml" value="0.19932432432432431" />
+        <entry key="../../../../layout/compose-model-1627037812443.xml" value="0.19932432432432431" />
+        <entry key="../../../../layout/compose-model-1627066036797.xml" value="0.19932432432432431" />
+        <entry key="../../../../layout/compose-model-1627110852106.xml" value="0.19932432432432431" />
+        <entry key="../../../../layout/compose-model-1627126925182.xml" value="0.19932432432432431" />
+        <entry key="../../../../layout/compose-model-1627294977659.xml" value="0.19932432432432431" />
+        <entry key="../../../../layout/compose-model-1627559644004.xml" value="0.19932432432432431" />
+        <entry key="../../../../layout/compose-model-1627578555153.xml" value="0.19932432432432431" />
+        <entry key="../../../../layout/compose-model-1627634945151.xml" value="0.19932432432432431" />
+        <entry key="../../../../layout/compose-model-1627664344352.xml" value="0.19932432432432431" />
+        <entry key="../../../../layout/compose-model-1627720274080.xml" value="0.17" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
